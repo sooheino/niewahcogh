@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aavisichei.nullsecurity.net/sitemap.xml
